@@ -1,12 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+SC:wght@300;500;600;700&display=swap');
+
+
+
 .container {
+  font-family: 'Encode Sans SC', sans-serif;
   min-height: 100vh;
   padding: 0 0.5rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  /* align-items: center; */
   height: 100vh;
-  background-color: lightblue;
+  width: 100%;
 }
 
 .main {
